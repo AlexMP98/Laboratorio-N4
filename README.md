@@ -55,7 +55,9 @@ Al momento de comparar los valores obtenidos analíticamente con los valores obt
 ![error](https://github.com/AlexMP98/Laboratorio-N4/blob/main/Imagenes/error.png)       
 
 
-**5. VIDEO**
+**5. VIDEO**       
+Link del video: https://youtu.be/sHeLGENviQw    
+
 
 **6.CONCLUSIONES**
 
