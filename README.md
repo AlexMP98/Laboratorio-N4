@@ -19,6 +19,7 @@ _Objetivos Específicos_
 
 **2. MARCO TEÓRICO**
 
+![marco teorico](https://github.com/AlexMP98/Laboratorio-N4/blob/main/Imagenes/MArco%20teorico%20LAb%204.PNG)
 
 **3.EXPLICACIÓN DEL PROCEDIEMIENTO**
 
