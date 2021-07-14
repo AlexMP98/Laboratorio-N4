@@ -12,10 +12,13 @@ _Objetivo General_
 _Objetivos Específicos_
 
 -Comprender el Teorema de superposición y aplicarlo a circuitos especificos.
--
--
+
+-Calcular a partir del Teorema de superposicion las diferentes intensidades y voltajes del circuito.
+
+-Comparar los resultados obtenidos analiticamente con los experimentales del circuito segun las condiciones dadas por el problema.
 
 **2. MARCO TEÓRICO**
+
 
 **3.EXPLICACIÓN DEL PROCEDIEMIENTO**
 
@@ -66,8 +69,9 @@ Al momento de comparar los valores obtenidos analíticamente con los valores obt
 Link del video: https://youtu.be/sHeLGENviQw    
 
 **6.CONCLUSIONES**
--De manera practica se aprendio e implemento el Teorema de superposición con la toma de medidas usando una sola fuente de alimentacion permitiendo evaluar los datos proporicionados  por cada una de las fuentes presentes en el circuito en cada una de las resistencias del sistema, para luego encontrar los verdaderos valores del circuito.
-Sin embargo , tambien concluimoque este metodo no ayuda a simplificar el problema sino a hacerlo mas largo.
+-De manera practica se aprendio e implemento el Teorema de superposición con la toma de medidas usando una sola fuente de alimentacion.
+-Se evaluaron los datos proporicionados  por cada una de las fuentes presentes en el circuito en cada una de las resistencias del sistema, para luego encontrar los verdaderos valores del circuito.
+-Sin embargo , tambien concluimos que este metodo no ayuda a simplificar el problema sino a hacerlo mas largo.
 
 **7.BIBLIOGRAFÍA**
 
